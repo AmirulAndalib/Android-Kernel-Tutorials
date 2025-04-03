@@ -3,7 +3,7 @@
 > 
 > **I take zero responsibility for your mistakes.** If you can’t follow instructions properly, don’t expect me to fix what you messed up. This guide is here to help, not to babysit.
 > 
-> If you successfully compile the kernel, great! That means the guide works. If your kernel doesn’t boot, it’s your job to debug it, check the logs, and figure it out.
+> If you successfully compile the kernel, great! That means the guide works. If your kernel doesn’t boot, it’s your job to **debug it, check the logs, and figure it out like a real developer.**
 > 
 > And if you skip the docs and then ask me stupid questions because you screwed up? **I’ll laugh at you.** 
 
